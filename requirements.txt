@@ -1,0 +1,123 @@
+absl-py==1.0.0
+argon2-cffi @ file:///tmp/build/80754af9/argon2-cffi_1613037097816/work
+async-generator @ file:///home/ktietz/src/ci/async_generator_1611927993394/work
+attrs @ file:///tmp/build/80754af9/attrs_1620827162558/work
+backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
+bleach @ file:///tmp/build/80754af9/bleach_1628110601003/work
+cachetools==4.2.4
+certifi==2021.10.8
+cffi @ file:///tmp/build/80754af9/cffi_1625807838443/work
+charset-normalizer==2.0.8
+cycler==0.11.0
+debugpy @ file:///tmp/build/80754af9/debugpy_1637091796427/work
+decorator @ file:///tmp/build/80754af9/decorator_1632776554403/work
+defusedxml @ file:///tmp/build/80754af9/defusedxml_1615228127516/work
+entrypoints==0.3
+glob2==0.7
+google-auth==1.35.0
+google-auth-oauthlib==0.4.6
+GPUtil==1.4.0
+grpcio==1.42.0
+idna==3.3
+imageio==2.12.0
+importlib-metadata @ file:///tmp/build/80754af9/importlib-metadata_1631916695836/work
+ipykernel @ file:///tmp/build/80754af9/ipykernel_1633545412716/work/dist/ipykernel-6.4.1-py3-none-any.whl
+ipython @ file:///tmp/build/80754af9/ipython_1635943998418/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+ipywidgets==7.6.5
+jedi @ file:///tmp/build/80754af9/jedi_1611333125342/work
+Jinja2 @ file:///tmp/build/80754af9/jinja2_1635780242639/work
+joblib==1.1.0
+jsonschema @ file:///Users/ktietz/demo/mc3/conda-bld/jsonschema_1630511932244/work
+jupyter==1.0.0
+jupyter-client @ file:///tmp/build/80754af9/jupyter_client_1637148478538/work
+jupyter-console==6.4.0
+jupyter-contrib-core==0.3.3
+jupyter-contrib-nbextensions==0.5.1
+jupyter-core @ file:///tmp/build/80754af9/jupyter_core_1636524756443/work
+jupyter-highlight-selected-word==0.2.0
+jupyter-latex-envs==1.4.6
+jupyter-nbextensions-configurator==0.4.1
+jupyterlab-pygments @ file:///tmp/build/80754af9/jupyterlab_pygments_1601490720602/work
+jupyterlab-widgets==1.0.2
+jupyterthemes==0.20.0
+kiwisolver==1.3.2
+lesscpy==0.15.0
+lxml==4.6.4
+Markdown==3.3.4
+MarkupSafe @ file:///tmp/build/80754af9/markupsafe_1621528148836/work
+matplotlib==3.4.3
+matplotlib-inline==0.1.3
+mistune==0.8.4
+nb-conda==2.2.1
+nb-conda-kernels @ file:///tmp/build/80754af9/nb_conda_kernels_1606775941989/work
+nbclient @ file:///tmp/build/80754af9/nbclient_1614364831625/work
+nbconvert @ file:///tmp/build/80754af9/nbconvert_1624479060632/work
+nbformat @ file:///tmp/build/80754af9/nbformat_1617383369282/work
+nest-asyncio @ file:///tmp/build/80754af9/nest-asyncio_1613680548246/work
+networkx==2.6.3
+notebook @ file:///tmp/build/80754af9/notebook_1637161770985/work
+numpy==1.21.4
+oauthlib==3.1.1
+opencv-python==4.5.4.60
+packaging @ file:///tmp/build/80754af9/packaging_1637314298585/work
+pandas==1.3.4
+pandocfilters @ file:///tmp/build/80754af9/pandocfilters_1605120460739/work
+parso @ file:///tmp/build/80754af9/parso_1617223946239/work
+pexpect @ file:///tmp/build/80754af9/pexpect_1605563209008/work
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow==8.4.0
+plotly==5.4.0
+ply==3.11
+prometheus-client @ file:///tmp/build/80754af9/prometheus_client_1637050397234/work
+prompt-toolkit @ file:///tmp/build/80754af9/prompt-toolkit_1633440160888/work
+protobuf==3.19.1
+ptyprocess @ file:///tmp/build/80754af9/ptyprocess_1609355006118/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycosat==0.6.3
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+Pygments @ file:///tmp/build/80754af9/pygments_1629234116488/work
+pyparsing @ file:///tmp/build/80754af9/pyparsing_1635766073266/work
+pyrsistent @ file:///tmp/build/80754af9/pyrsistent_1636110947380/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytrends==4.7.3
+pytz==2021.3
+PyWavelets==1.2.0
+PyYAML==6.0
+pyzmq @ file:///tmp/build/80754af9/pyzmq_1628276010766/work
+qtconsole==5.2.1
+QtPy==1.11.2
+requests==2.26.0
+requests-oauthlib==1.3.0
+rsa==4.7.2
+ruamel.yaml==0.17.17
+ruamel.yaml.clib==0.2.6
+scikit-image==0.18.3
+scikit-learn==0.24.2
+scipy==1.7.2
+seaborn==0.11.2
+Send2Trash @ file:///tmp/build/80754af9/send2trash_1632406701022/work
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+tenacity==8.0.1
+tensorboard==2.6.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.0
+terminado==0.9.4
+testpath @ file:///tmp/build/80754af9/testpath_1624638946665/work
+threadpoolctl==3.0.0
+tifffile==2021.11.2
+torch==1.10.0
+torchsummary==1.5.1
+torchtext==0.11.0
+torchvision==0.11.1
+tornado @ file:///tmp/build/80754af9/tornado_1606942300299/work
+tqdm==4.62.1
+traitlets @ file:///tmp/build/80754af9/traitlets_1636710298902/work
+typing_extensions==4.0.0
+urllib3==1.26.7
+wcwidth @ file:///Users/ktietz/demo/mc3/conda-bld/wcwidth_1629357192024/work
+webencodings==0.5.1
+Werkzeug==2.0.2
+widgetsnbextension==3.5.2
+zipp @ file:///tmp/build/80754af9/zipp_1633618647012/work
