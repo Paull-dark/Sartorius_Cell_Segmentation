@@ -1,5 +1,8 @@
 sartorius-cell-instance-segmentation
 .idea/
 .ipynb_checkpoints
+__pycache__/
+runs/
 token_pc.txt
+token.txt
 
