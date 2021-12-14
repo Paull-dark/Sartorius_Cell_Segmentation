@@ -5,5 +5,5 @@ __pycache__/
 runs/
 token_pc.txt
 token.txt
-UNet.pt
+#UNet.pt
 logdir/
