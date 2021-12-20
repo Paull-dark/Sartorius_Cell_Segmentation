@@ -8,4 +8,5 @@ token.txt
 UNET_1_BCE.pt
 UNET_1_Dice.pt
 UNET_1_Jaccard.pt
+UNET_1_ComboLoss.pt
 logdir/
